@@ -8,7 +8,7 @@ As part of my Engineering course, my team recreated an IEEE research paper which
 3. Singular Value Equation
 
 
-<img src="/Images%20for%20readme%20file/EmbeddedImage.png" width="1000" height="480"/>
+<img src="/Images%20for%20readme%20file/EmbeddedImage.png" width="600" height="480"/>
 
 
 
