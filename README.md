@@ -14,7 +14,7 @@ As part of my Engineering course, my team recreated an IEEE research paper which
 
 ## STEP 1
 
-<img src="/Images%20for%20readme%20file/EmbeddedImage%20(1).png" width="800" height="600"/>
+<img src="/Images%20for%20readme%20file/EmbeddedImage%20(1).png" width="500" height="300"/>
 
 A copy of an image(A) is histogram equalized. Let it be denoted as H. 
 Histogram equalization spreads closely distributed contrast intensities to a more normal/ spread out    distribution.
@@ -22,7 +22,7 @@ This cannot be used as a standalone improvement for the image since this might i
 
 ## STEP 2
 
-<img src="/Images%20for%20readme%20file/EmbeddedImage%20(2).png" width="800" height="600"/>
+<img src="/Images%20for%20readme%20file/EmbeddedImage%20(2).png" width="500" height="300"/>
 
 The histogram equalized copy of image (A) and another unprocessed copy of the image (B) are both subject to a 2-step Discrete Wavelet Transform.
 The Discrete Wavelet Transform divides the image into 4 sub-brands according to frequency - LL, LH, HL, HH. 
