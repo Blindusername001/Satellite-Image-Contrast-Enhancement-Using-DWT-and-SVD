@@ -8,17 +8,22 @@ As part of my Engineering course, my team recreated an IEEE research paper which
 3. Singular Value Equation
 
 
-<img src="/Images%20for%20readme%20file/EmbeddedImage.png" width="600" height="480"/>
+<img src="/Images%20for%20readme%20file/EmbeddedImage.png" width="800" height="480"/>
 
 
 
 ## STEP 1
+
+<img src="/Images%20for%20readme%20file/EmbeddedImage%20(1).png" width="800" height="600"/>
+
 A copy of an image(A) is histogram equalized. Let it be denoted as H. 
 Histogram equalization spreads closely distributed contrast intensities to a more normal/ spread out    distribution.
 This cannot be used as a standalone improvement for the image since this might increase the intensity of the noise data too.
 
-
 ## STEP 2
+
+<img src="/Images%20for%20readme%20file/EmbeddedImage%20(2).png" width="800" height="600"/>
+
 The histogram equalized copy of image (A) and another unprocessed copy of the image (B) are both subject to a 2-step Discrete Wavelet Transform.
 The Discrete Wavelet Transform divides the image into 4 sub-brands according to frequency - LL, LH, HL, HH. 
 Of the 4 bands, LL is of interest to us because it represents illumination information whereas HH represents edges.
