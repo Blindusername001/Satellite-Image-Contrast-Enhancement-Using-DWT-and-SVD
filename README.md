@@ -3,10 +3,13 @@ My undergrad project which is an implementation of of an IEEE paper
 
 As part of my Engineering course, my team recreated an IEEE research paper which describes a hybrid approach to improve the contrast of image data while controlling increasing the noise data in  satellite images
  The approach uses the following techniques
-
 1. General Histogram Equation
 2. Discrete Wavelet Transform
 3. Singular Value Equation
+
+
+<img src="/Images%20for%20readme%20file/EmbeddedImage.png" width="1000" height="480"/>
+
 
 
 ## STEP 1
@@ -45,9 +48,9 @@ LL(Z), LH(B), HL(B), HH(B)
 This is the output image which will contain the processed LL component with improved contrast.
 
 ## References
-H. Demirel, C. Ozcinar and G. Anbarjafari, "Satellite Image Contrast Enhancement Using Discrete Wavelet Transform and Singular Value Decomposition," in IEEE Geoscience and Remote Sensing Letters, vol. 7, no. 2, pp. 333-337, April 2010, doi: 10.1109/LGRS.2009.2034873.
-H. Ibrahim and N. S. Pik Kong, "Brightness Preserving Dynamic Histogram Equalization for Image Contrast Enhancement," in IEEE Transactions on Consumer Electronics, vol. 53, no. 4, pp. 1752-1758, Nov. 2007, doi: 10.1109/TCE.2007.4429280.
-H. Demirel, G. Anbarjafari and M. N. S. Jahromi, "Image equalization based on singular value decomposition," 2008 23rd International Symposium on Computer and Information Sciences, Istanbul, 2008, pp. 1-5, doi: 10.1109/ISCIS.2008.4717878.
-R. C. Gonzalez and R. E. Woods, Digital Image Processing. Englewood Cliffs, NJ: Prentice-Hall, 2007.
-Y. Tian, T. Tan, Y. Wang, and Y. Fang, “Do singular values contain adequate information for face recognition?” Pattern Recognit., vol. 36,no. 3, pp. 649–655, Mar. 2003.
+1. H. Demirel, C. Ozcinar and G. Anbarjafari, "Satellite Image Contrast Enhancement Using Discrete Wavelet Transform and Singular Value Decomposition," in IEEE Geoscience and Remote Sensing Letters, vol. 7, no. 2, pp. 333-337, April 2010, doi: 10.1109/LGRS.2009.2034873.
+2. H. Ibrahim and N. S. Pik Kong, "Brightness Preserving Dynamic Histogram Equalization for Image Contrast Enhancement," in IEEE Transactions on Consumer Electronics, vol. 53, no. 4, pp. 1752-1758, Nov. 2007, doi: 10.1109/TCE.2007.4429280.
+3. H. Demirel, G. Anbarjafari and M. N. S. Jahromi, "Image equalization based on singular value decomposition," 2008 23rd International Symposium on Computer and Information Sciences, Istanbul, 2008, pp. 1-5, doi: 10.1109/ISCIS.2008.4717878.
+4.  C. Gonzalez and R. E. Woods, Digital Image Processing. Englewood Cliffs, NJ: Prentice-Hall, 2007.
+5. Tian, T. Tan, Y. Wang, and Y. Fang, “Do singular values contain adequate information for face recognition?” Pattern Recognit., vol. 36,no. 3, pp. 649–655, Mar. 2003.
 
